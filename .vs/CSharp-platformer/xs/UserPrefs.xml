@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B6C96729-A1E8-42C2-B467-B33B8133B4A5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharp-platformer/Program.cs">
+    <Files>
+      <File FileName="CSharp-platformer/Program.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharp-platformer" expanded="True">
+            <Node name="CSharp-platformer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CSharp-platformer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
