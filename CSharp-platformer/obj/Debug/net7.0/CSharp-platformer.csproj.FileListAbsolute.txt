@@ -1,0 +1,15 @@
+/Users/valka/Projects/CSharp-platformer/CSharp-platformer/bin/Debug/net7.0/CSharp-platformer
+/Users/valka/Projects/CSharp-platformer/CSharp-platformer/bin/Debug/net7.0/CSharp-platformer.deps.json
+/Users/valka/Projects/CSharp-platformer/CSharp-platformer/bin/Debug/net7.0/CSharp-platformer.runtimeconfig.json
+/Users/valka/Projects/CSharp-platformer/CSharp-platformer/bin/Debug/net7.0/CSharp-platformer.dll
+/Users/valka/Projects/CSharp-platformer/CSharp-platformer/bin/Debug/net7.0/CSharp-platformer.pdb
+/Users/valka/Projects/CSharp-platformer/CSharp-platformer/obj/Debug/net7.0/CSharp-platformer.csproj.AssemblyReference.cache
+/Users/valka/Projects/CSharp-platformer/CSharp-platformer/obj/Debug/net7.0/CSharp-platformer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valka/Projects/CSharp-platformer/CSharp-platformer/obj/Debug/net7.0/CSharp-platformer.AssemblyInfoInputs.cache
+/Users/valka/Projects/CSharp-platformer/CSharp-platformer/obj/Debug/net7.0/CSharp-platformer.AssemblyInfo.cs
+/Users/valka/Projects/CSharp-platformer/CSharp-platformer/obj/Debug/net7.0/CSharp-platformer.csproj.CoreCompileInputs.cache
+/Users/valka/Projects/CSharp-platformer/CSharp-platformer/obj/Debug/net7.0/CSharp-platformer.dll
+/Users/valka/Projects/CSharp-platformer/CSharp-platformer/obj/Debug/net7.0/refint/CSharp-platformer.dll
+/Users/valka/Projects/CSharp-platformer/CSharp-platformer/obj/Debug/net7.0/CSharp-platformer.pdb
+/Users/valka/Projects/CSharp-platformer/CSharp-platformer/obj/Debug/net7.0/CSharp-platformer.genruntimeconfig.cache
+/Users/valka/Projects/CSharp-platformer/CSharp-platformer/obj/Debug/net7.0/ref/CSharp-platformer.dll
